@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HelloNickpy!
 - 👀 I’m interested in automation, devops, and python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
+- 🌱 Continulously learning python
 - 📫 How to reach me 
 
 <!---
